@@ -1,1 +1,10 @@
-{ "Manitoba": [ "Winnipeg", "Winkler", "Roseisle" ] }
+[
+  {
+    "province": "Manitoba",
+    "cities": ["Winkler", "Winnipeg", "Morden"]
+  },
+  {
+    "province": "Alberta",
+    "cities": ["Medicine Hat", "Edmonton"]
+  }
+]
